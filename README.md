@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Arpita  
+### A passionate Web Developer & Student
 
-<!--
-**ArpitaaRajput/arpitaarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning web development step by step by building real projects.  
+I enjoy creating clean, responsive web pages and building full-stack apps using Firebase.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Firebase Authentication, Firestore, Python(Django) 
+- **Tools:** VS Code, Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Image Slider
+### 🔹 Tic Tac Toe
+### 🔹 Online Ice Cream Website
+
+---
+
+## 📊 GitHub Stats
+![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitaarajput&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaarajput&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- Firebase (Auth + Firestore)  
+- Advanced JavaScript  
+- Git & GitHub  
+- Improving frontend design skills
+
+---
+
+## 💡 About Me
+- 🔭 I love building web applications  
+- 🌼 Always learning something new  
+- 💻 Passionate about clean UI  
+- 🚀 Trying to grow as a developer day by day  
+
+---
+
+## 📬 Connect With Me
+🌐 **GitHub:** [github.com/arpitaarajput](https://github.com/arpitaarajput)  
+💌 *More links coming soon…*
+
+---
+
+⭐ If you like my work, feel free to follow me and check out my projects!
