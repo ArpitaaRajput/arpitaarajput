@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1000x200.png?text=Hello,+I'm+Arpita+👋)
+
 # 👋 Hi, I'm Arpita  
 ### A passionate Web Developer & Student
 
@@ -18,39 +20,6 @@ I enjoy creating clean, responsive web pages and building full-stack apps using 
 ### 🔹 Image Slider
 ### 🔹 Tic Tac Toe
 ### 🔹 Online Ice Cream Website
-
----
-
-<div align="center">
-
-## ⭐ My Projects
-
-<div style="display: flex; gap: 20px;">
-
-  <div style="width: 30%;">
-    <h3>🍦 Ice-Cream Website</h3>
-    <img src="https://via.placeholder.com/300x170.png?text=Ice+Cream+Website">
-    <p>A responsive ice-cream shop landing page.</p>
-    <a href="#">🔗 Demo</a> • <a href="#">📂 Code</a>
-  </div>
-
-  <div style="width: 30%;">
-    <h3>❌ Tic-Tac-Toe</h3>
-    <img src="https://via.placeholder.com/300x170.png?text=Tic+Tac+Toe">
-    <p>Classic Tic-Tac-Toe game using JavaScript.</p>
-    <a href="#">🔗 Play</a> • <a href="#">📂 Code</a>
-  </div>
-
-  <div style="width: 30%;">
-    <h3>📚 Student Dashboard</h3>
-    <img src="https://via.placeholder.com/300x170.png?text=Student+Dashboard">
-    <p>Firebase project with login + dashboard.</p>
-    <a href="#">🔗 Demo</a> • <a href="#">📂 Code</a>
-  </div>
-
-</div>
-
-</div>
 
 ---
 
