@@ -1,5 +1,3 @@
-![Banner](https://via.placeholder.com/1000x200.png?text=Hello,+I'm+Arpita+👋)
-
 # 👋 Hi, I'm Arpita  
 ### A passionate Web Developer & Student
 
@@ -23,13 +21,43 @@ I enjoy creating clean, responsive web pages and building full-stack apps using 
 
 ---
 
+<!-- ===================== Projects ===================== -->
+## 📸 Projects Gallery
+
+### 🍦 Ice-Cream Website
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Ice+Cream+Website" width="400" />
+  <p>A responsive ice-cream shop landing page.</p>
+  🔗 Demo • 📂 Code
+</div>
+
+---
+
+### ❌ Tic-Tac-Toe
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Tic+Tac+Toe" width="400" />
+  <p>Classic Tic-Tac-Toe game using JavaScript.</p>
+  🔗 Play • 📂 Code
+</div>
+
+---
+
+### 📚 Student Dashboard
+<div align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Student+Dashboard" width="400" />
+  <p>Firebase project with login + dashboard.</p>
+  🔗 Demo • 📂 Code
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-![Arpita's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpitaarajput&show_icons=true&theme=tokyonight)
+![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitaarajput&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arpitaarajput&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaarajput&layout=compact&theme=react)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arpitaarajput&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=arpitaarajput&theme=react)
 
 ---
 
