@@ -22,9 +22,12 @@ I enjoy creating clean, responsive web pages and building full-stack apps using 
 ---
 
 ## 📊 GitHub Stats
-![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitaarajput&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaarajput&layout=compact&theme=tokyonight)
+![Arpita's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpitaarajput&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arpitaarajput&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arpitaarajput&theme=tokyonight)
 
 ---
 
