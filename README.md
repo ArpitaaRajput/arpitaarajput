@@ -39,7 +39,6 @@ I enjoy creating clean, responsive web pages and building full-stack apps using 
 
 ## 📬 Connect With Me
 🌐 **GitHub:** [github.com/arpitaarajput](https://github.com/arpitaarajput)  
-💌 *More links coming soon…*
 
 ---
 
